@@ -1,6 +1,6 @@
  WIA 2005 Algorithm Analysis and Design
 
-### Members:
+###Members:
 
 1. Tneoh Chuan Lin **(Leader)**
   
@@ -15,7 +15,7 @@
 6. James Wong Yi Ngie
   
 
-### Part 4: The Love Letter
+###Part 4: The Love Letter
 
 Problem Description:
 
