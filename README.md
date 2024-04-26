@@ -22,7 +22,7 @@ Problem Description:
 
 Once he have put all of the selected items in his bag, he went to look at the two letters in the chest. He picked up the letters (Figure 3) and there it was written:
 
-![](C:\Users\User\AppData\Roaming\marktext\images\2024-04-26-19-43-11-image.png)
+![alt text](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%204.png)
 
 The two letters looked similar but he notices some of the words are different between the two letters.
 
