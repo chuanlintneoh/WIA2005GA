@@ -81,7 +81,7 @@ What are the different words from the two letters?
 
 The different words found in one of the letter sounded like an ancient book title that Algo Jones have seen in the library back in Harvard University. He straight away plan his travel to visit the library. Once there he found the book and straight away open to read them. At first glance, nothing seems out of the ordinary apart from the usual writings on ancient civilisation, but at the end of the book, Algo Jones found a string of strange characters (Figure 4).
 
-![Part 5](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%205.png)
+![Part 5](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%205.png)
 
 **Problem:**
 What is the secret message from the book?
