@@ -24,6 +24,9 @@ Algo Jones is an archaeologist, who goes around the world looking for missing tr
 **Problem:**
 How to search all the chambers without missing any areas?
 
+**Solution:**
+Click ![here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb) to view the solution. `Part 1.ipynb`
+
 ### Part 2: Cracking the Chest Lock Code
 
 **Problem Description:**
