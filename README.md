@@ -25,7 +25,7 @@ Algo Jones is an archaeologist, who goes around the world looking for missing tr
 How to search all the chambers without missing any areas?
 
 **Solution:**
-Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb) to view the solution. (`Part 1.ipynb`)
+Click [here]() to view the solution.
 
 ### Part 2: Cracking the Chest Lock Code
 
@@ -37,6 +37,9 @@ Algo Jones finally found the chest in chamber marked 14 in the floor plan. The c
 
 **Problem:**
 What are the possible number combination for the lock?
+
+**Solution:**
+Click [here]() to view the solution.
 
 ### Part 3: Choosing the Treasures
 
@@ -60,7 +63,7 @@ Table 1: List of items in the chest including the weight and value
 Which items should he carry out in his bag first?
 
 **Solution:**
-Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/part%203%20script.ipynb) to view the solution. (`Part 3.ipynb`)
+Click [here]() to view the solution.
 
 ### Part 4: The Love Letter
 
@@ -75,6 +78,9 @@ The two letters looked similar but he notices some of the words are different be
 **Problem:**
 What are the different words from the two letters?
 
+**Solution:**
+Click [here]() to view the solution.
+
 ### Part 5: The Secret Message
 
 **Problem Description:**
@@ -85,6 +91,9 @@ The different words found in one of the letter sounded like an ancient book titl
 
 **Problem:**
 What is the secret message from the book?
+
+**Solution:**
+Click [here]() to view the solution.
 
 ### Part 6: The Final Search of the Golden Statue of Bastet
 
@@ -106,6 +115,9 @@ As much as Algo Jones wanted to find the Golden Statue of Bastet, he must consid
 
 **Problem:**
 Which island(s) should he search?
+
+**Solution:**
+Click [here]() to view the solution.
 
 ### Part 7:
 
