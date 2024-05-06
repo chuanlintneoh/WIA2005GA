@@ -19,7 +19,7 @@
 
 Algo Jones is an archaeologist, who goes around the world looking for missing treasures. His latest project brought him to Egypt, to look for the Golden Statue of Bastet, said to be hidden in a chest in one of the chambers in the Pyramid of Khufu. The pyramid contains many chambers and the floor plan (marked with grid numbers), look like the following (Figure 1). Entrance is located in chamber 1.
 
-![Part 1](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%201.png)
+![Part 1](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%201.png)
 
 **Problem:**
 How to search all the chambers without missing any areas?
@@ -33,7 +33,7 @@ Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb
 
 Algo Jones finally found the chest in chamber marked 14 in the floor plan. The chest contains a lock that requires a 3-digit number combination (Figure 2).
 
-![Part 2](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%202.png)
+![Part 2](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%202.png)
 
 **Problem:**
 What are the possible number combination for the lock?
