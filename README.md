@@ -25,7 +25,7 @@ Algo Jones is an archaeologist, who goes around the world looking for missing tr
 How to search all the chambers without missing any areas?
 
 **Solution:**
-Click ![here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb) to view the solution. `Part 1.ipynb`
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb) to view the solution. (`Part 1.ipynb`)
 
 ### Part 2: Cracking the Chest Lock Code
 
@@ -58,6 +58,9 @@ Table 1: List of items in the chest including the weight and value
 
 **Problem:**
 Which items should he carry out in his bag first?
+
+**Solution:**
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/part%203%20script.ipynb) to view the solution. (`Part 3.ipynb`)
 
 ### Part 4: The Love Letter
 
