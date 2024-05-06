@@ -19,10 +19,13 @@
 
 Algo Jones is an archaeologist, who goes around the world looking for missing treasures. His latest project brought him to Egypt, to look for the Golden Statue of Bastet, said to be hidden in a chest in one of the chambers in the Pyramid of Khufu. The pyramid contains many chambers and the floor plan (marked with grid numbers), look like the following (Figure 1). Entrance is located in chamber 1.
 
-![Part 1](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%201.png)
+![Part 1](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%201.png)
 
 **Problem:**
 How to search all the chambers without missing any areas?
+
+**Solution:**
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201.ipynb) to view the solution. (`Part 1.ipynb`)
 
 ### Part 2: Cracking the Chest Lock Code
 
@@ -30,7 +33,7 @@ How to search all the chambers without missing any areas?
 
 Algo Jones finally found the chest in chamber marked 14 in the floor plan. The chest contains a lock that requires a 3-digit number combination (Figure 2).
 
-![Part 2](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%202.png)
+![Part 2](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%202.png)
 
 **Problem:**
 What are the possible number combination for the lock?
@@ -56,6 +59,9 @@ Table 1: List of items in the chest including the weight and value
 **Problem:**
 Which items should he carry out in his bag first?
 
+**Solution:**
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/part%203%20script.ipynb) to view the solution. (`Part 3.ipynb`)
+
 ### Part 4: The Love Letter
 
 **Problem Description:**
@@ -75,7 +81,7 @@ What are the different words from the two letters?
 
 The different words found in one of the letter sounded like an ancient book title that Algo Jones have seen in the library back in Harvard University. He straight away plan his travel to visit the library. Once there he found the book and straight away open to read them. At first glance, nothing seems out of the ordinary apart from the usual writings on ancient civilisation, but at the end of the book, Algo Jones found a string of strange characters (Figure 4).
 
-![Part 5](https://github.com/chuanlintneoh/WIA2005GA/blob/tneoh/assets/Part%205.png)
+![Part 5](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%205.png)
 
 **Problem:**
 What is the secret message from the book?
