@@ -19,7 +19,7 @@
 
 Algo Jones is an archaeologist, who goes around the world looking for missing treasures. His latest project brought him to Egypt, to look for the Golden Statue of Bastet, said to be hidden in a chest in one of the chambers in the Pyramid of Khufu. The pyramid contains many chambers and the floor plan (marked with grid numbers), look like the following (Figure 1). Entrance is located in chamber 1.
 
-![Part 1](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%201.png)
+![Part_1.png](attachment:Part_1.png)
 
 **Problem:**
 How to search all the chambers without missing any areas?
@@ -33,7 +33,7 @@ Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%201/Solut
 
 Algo Jones finally found the chest in chamber marked 14 in the floor plan. The chest contains a lock that requires a 3-digit number combination (Figure 2).
 
-![Part 2](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%202.png)
+![Part_2.png](attachment:Part_2.png)
 
 **Problem:**
 What are the possible number combination for the lock?
@@ -71,7 +71,7 @@ Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%203/Solut
 
 Once he have put all of the selected items in his bag, he went to look at the two letters in the chest. He picked up the letters (Figure 3) and there it was written:
 
-![Part 4](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%204.png)
+![Part_4.png](attachment:Part_4.png)
 
 The two letters looked similar but he notices some of the words are different between the two letters.
 
@@ -87,7 +87,7 @@ Click [here]() to view the solution.
 
 The different words found in one of the letter sounded like an ancient book title that Algo Jones have seen in the library back in Harvard University. He straight away plan his travel to visit the library. Once there he found the book and straight away open to read them. At first glance, nothing seems out of the ordinary apart from the usual writings on ancient civilisation, but at the end of the book, Algo Jones found a string of strange characters (Figure 4).
 
-![Part 5](https://github.com/chuanlintneoh/WIA2005GA/blob/main/assets/Part%205.png)
+![Part_5.png](attachment:Part_5.png)
 
 **Problem:**
 What is the secret message from the book?
