@@ -79,7 +79,7 @@ The two letters looked similar but he notices some of the words are different be
 What are the different words from the two letters?
 
 **Solution:**
-Click [here]() to view the solution.
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%204/Solution.ipynb) to view the solution.
 
 ### Part 5: The Secret Message
 
@@ -93,7 +93,7 @@ The different words found in one of the letter sounded like an ancient book titl
 What is the secret message from the book?
 
 **Solution:**
-Click [here]() to view the solution.
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%205/Solution.ipynb) to view the solution.
 
 ### Part 6: The Final Search of the Golden Statue of Bastet
 
