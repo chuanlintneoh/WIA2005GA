@@ -125,4 +125,4 @@ Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%206/Solut
 Decide how the story ends.
 
 **Solution:**
-Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%207/Solution.ipynb) to view the solution.
+Click [here](https://github.com/chuanlintneoh/WIA2005GA/blob/main/Part%207/Solution.md) to view the solution.
